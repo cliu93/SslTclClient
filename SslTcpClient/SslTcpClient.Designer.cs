@@ -208,7 +208,7 @@
             this.btnListCipher.Name = "btnListCipher";
             this.btnListCipher.Size = new System.Drawing.Size(120, 23);
             this.btnListCipher.TabIndex = 3;
-            this.btnListCipher.Text = "List Available Ciphers";
+            this.btnListCipher.Text = "List Ciphers codes";
             this.btnListCipher.UseVisualStyleBackColor = true;
             this.btnListCipher.Click += new System.EventHandler(this.ListAllCiphers);
             // 
